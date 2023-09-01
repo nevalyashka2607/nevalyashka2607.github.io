@@ -1,0 +1,72 @@
+
+body {
+  background: ;
+  font-family: Roboto, sans-serif;
+}
+
+.merch {
+  color: blue;
+}
+
+.container {
+  padding: 0 40px;
+  margin-left: 100px;
+}/*сайт и готов найти баг*/
+
+h1 {
+
+  font-size: 30px;
+  justify-self: center;
+  color: whitesmoke;
+  text-align: center;
+  font: italic;
+
+}
+/*привет я занимаюсь тестиованием*/
+h2 {
+  font-size: 25px;
+  margin: 25px 0;
+  color: whitesmoke;
+
+}/*лучший из землян*/
+p{font-size: 25px;
+   color: whitesmoke;
+   text-align: center;
+  }
+
+  /* Свойства фотографии*/
+.photo {
+
+  border-radius: 100px;
+  /* Радиус скругления */
+  border: 3px solid transparent;
+  /* Параметры рамки */
+  box-shadow: 0 4px 15px 0px rgba(0, 0, 0, 0.52);
+  object-fit: cover;
+}
+
+  /* Эффект наведения на картинку */
+.photo:hover {
+  border: 3px solid #FFD700;
+}
+
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center 
+}
+.mi { display: flex;
+  justify-content: center;
+  align-items: center 
+  
+
+}
+
+
+  /* Свойства ссылок */
+
+
+  /* Что делать при наведении на ссылку */
+
+
+ 
